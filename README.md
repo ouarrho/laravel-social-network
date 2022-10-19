@@ -1,2 +1,2 @@
-# laravel-random-user
- Hello Laravel :)
+# laravel-social-network
+ Social network with Laravel :)
